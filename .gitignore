@@ -1,0 +1,9 @@
+# snyk
+.dccache
+
+# general folders
+dist
+node_modules
+
+# macOS general
+.DS_Store
