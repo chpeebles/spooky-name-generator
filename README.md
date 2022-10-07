@@ -11,3 +11,10 @@ Spooky-fy your name for the spooky szn
 ### Bundling
 
 - [ParcelJS](https://parceljs.org/) Bundler for CSS and JS for local development
+
+## Get up and running locally
+
+At the root directory:
+
+1. Run `npm install` to install dependencies
+2. Run `npm start` to start the development server
