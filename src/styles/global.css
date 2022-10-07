@@ -1,0 +1,9 @@
+body {
+  font-family: 'Silkscreen', cursive;
+}
+
+input:focus,
+button:focus {
+  outline: 4px solid orange;
+  outline-offset: 0px;
+}
