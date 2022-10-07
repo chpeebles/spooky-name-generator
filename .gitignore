@@ -7,3 +7,6 @@ node_modules
 
 # macOS general
 .DS_Store
+
+# parcel
+.parcel-cache/

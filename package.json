@@ -1,0 +1,13 @@
+{
+  "name": "spooky-name-generator",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest",
+    "postcss": "^8.4.17",
+    "tailwindcss": "^3.1.8"
+  }
+}
