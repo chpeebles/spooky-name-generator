@@ -2,7 +2,7 @@
   "name": "spooky-name-generator",
   "source": "src/index.html",
   "scripts": {
-    "start": "parcel",
+    "start": "parcel --port 666",
     "build": "parcel build"
   },
   "devDependencies": {
