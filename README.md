@@ -17,4 +17,4 @@ Spooky-fy your name for the spooky szn
 At the root directory:
 
 1. Run `npm install` to install dependencies
-2. Run `npm start` to start the development server
+2. Run `npm start` to start the local development server at http://localhost:666/
