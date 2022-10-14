@@ -7,7 +7,14 @@
   },
   "devDependencies": {
     "parcel": "latest",
+    "parcel-reporter-static-files-copy": "^1.4.0",
     "postcss": "^8.4.17",
     "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "typescript": "^4.8.4"
+  },
+  "staticFiles": {
+    "staticPath": "./src/spooky-words"
   }
 }
